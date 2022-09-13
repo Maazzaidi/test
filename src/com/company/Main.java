@@ -6,7 +6,7 @@ public class Main {
             //a method is a block of code that can be excecuted whenever it is called upon
             int age = 8;
             tatti();
-            String name = "maaz";
+            String name = "abdi";
 
             hello(age,name);
         }
